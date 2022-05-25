@@ -2,4 +2,4 @@
 .env
 images/**
 !images/.gitkeep
-*.server_first_vision
+.server_first_vision
