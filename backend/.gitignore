@@ -1,0 +1,5 @@
+/node_modules
+.env
+images/**
+!images/.gitkeep
+server_first_vision
