@@ -1,10 +1,9 @@
 /* 
-    Server NODE opérationnel et stable pour le développement
+    Server NODE opérationnel et stable pour le développement (cours OC)
 */
-
 const http = require('http');
 const app = require('./app');
-const dotenv =  require('dotenv');//--------------------------------------------
+const dotenv =  require('dotenv');
 
 // Renvoie un port valide (numéro ou chaine de caractères)
 const normalizePort = val => {
