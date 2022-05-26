@@ -32,7 +32,6 @@ const app = express(); // application express
 const mongoose = require('mongoose');
 const dotenv =  require('dotenv');//--------------------------------------------
 require('dotenv').config();
-const mogodbSanitize = require('mongodb-sanitize');
 const mongodbSanitize = require('mongodb-sanitize');
 
 //  ---------------------------------------------------------------------------------
